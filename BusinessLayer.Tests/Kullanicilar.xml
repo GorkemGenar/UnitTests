@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Kulllanicilar>
+  <Kullanici ad="Salih" telefon="11111" mail="salih@goliq.net"/>
+  <Kullanici ad="Ali Ahmet" telefon="22222" mail="ali@abc.com"/>
+  <Kullanici ad="Veli" telefon="33333" mail="veli@abc.com"/>
+  <Kullanici ad="Mehmet" telefon="44444" mail="veli@abc.com"/>
+  <Kullanici ad="Mustafa" telefon="55555" mail="veli@abc.com"/>
+  <Kullanici ad="Engin" telefon="66666" mail="veli@abc.com"/>
+  <Kullanici ad="Murat" telefon="77777" mail="veli@abc.com"/>
+  <Kullanici ad="Cevdet" telefon="88888" mail="veli@abc.com"/>
+</Kulllanicilar>
